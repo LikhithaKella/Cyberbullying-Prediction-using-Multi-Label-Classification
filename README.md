@@ -36,6 +36,6 @@ Matplotlib, Seaborn for data visualization
 
 
 ## Future Work
-`Fine-tuning Models`: Experiment with hyperparameter tuning to improve model performance.
-`Multilingual Support`: Extend the project to classify cyberbullying in different languages.
-`Real-time Detection`: Implement the system for real-time text streaming analysis (e.g., social media posts).
+`Fine-tuning Models`: Experiment with hyperparameter tuning to improve model performance.  
+`Multilingual Support`: Extend the project to classify cyberbullying in different languages.  
+`Real-time Detection`: Implement the system for real-time text streaming analysis (e.g., social media posts).  
