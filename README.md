@@ -19,17 +19,23 @@ The objective of this project is to create a highly efficient system that detect
 
 ## Technologies Used
 `Python`: The primary programming language for implementing the project.  
-`Libraries`:
-Pandas, NumPy for data manipulation and analysis
-Scikit-learn for machine learning models and evaluation metrics
-NLTK, SpaCy for text preprocessing tasks
-Word2Vec for advanced feature extraction
-RoBERTa (transformer-based model) for enhanced classification performance
-Matplotlib, Seaborn for data visualization
-`Tools`: Jupyter Notebook for interactive development and experimentation.
+`Libraries`:  
+Pandas, NumPy for data manipulation and analysis  
+Scikit-learn for machine learning models and evaluation metrics  
+NLTK, SpaCy for text preprocessing tasks  
+Word2Vec for advanced feature extraction  
+RoBERTa (transformer-based model) for enhanced classification performance  
+Matplotlib, Seaborn for data visualization  
+`Tools`: Jupyter Notebook for interactive development and experimentation.  
 
 ## Evaluation Metrics
-`Accuracy`: Measures the overall correctness of the model.
-`Precision`: Indicates the percentage of correctly predicted cyberbullying instances out of all instances predicted as cyberbullying.
-`Recall`: Measures the percentage of actual cyberbullying instances that were correctly identified by the model.
-`F1-Score`: The harmonic mean of precision and recall, providing a balance between the two.
+`Accuracy`: Measures the overall correctness of the model.  
+`Precision`: Indicates the percentage of correctly predicted cyberbullying instances out of all instances predicted as cyberbullying.  
+`Recall`: Measures the percentage of actual cyberbullying instances that were correctly identified by the model.  
+`F1-Score`: The harmonic mean of precision and recall, providing a balance between the two.  
+
+
+## Future Work
+`Fine-tuning Models`: Experiment with hyperparameter tuning to improve model performance.
+`Multilingual Support`: Extend the project to classify cyberbullying in different languages.
+`Real-time Detection`: Implement the system for real-time text streaming analysis (e.g., social media posts).
