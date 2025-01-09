@@ -18,7 +18,7 @@ Detailed visual comparison of model performances, showcasing strengths, weakness
 The objective of this project is to create a highly efficient system that detects cyberbullying in online interactions, classifying different types of harmful behavior. This system can be applied in various platforms, including social media, online forums, and chat applications, to identify and prevent bullying behavior.
 
 ## Technologies Used
-`Python`: The primary programming language for implementing the project.
+`Python`: The primary programming language for implementing the project.  
 `Libraries`:
 Pandas, NumPy for data manipulation and analysis
 Scikit-learn for machine learning models and evaluation metrics
